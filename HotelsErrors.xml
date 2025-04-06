@@ -50,7 +50,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="5.0">>
+	<Hotel Rating="5.0">
 		<Name>Ritz-Carlton</Name>
 		<Phone>212-222-3333</Phone>
 		<Phone>800-888-9999</Phone>
